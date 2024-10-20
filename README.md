@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./ss2_ReactApp.png)
+![Screenshot](./Screenshot 2024-10-19 at 21-42-12 React App.png)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://kalani9uggalle.github.io/Social-links-profile-challenge-on-Frontend-Mentor)
+- Live Site URL: [Social-links-profile-challenge-on-Frontend-Mentor](https://kalani9uggalle.github.io/Social-links-profile-challenge-on-Frontend-Mentor)
 
 ## My process
 
