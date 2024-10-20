@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./Screenshot 2024-10-19 at 21-42-12 React App.png)
+![Screenshot](./ReactApp_active.png)
 
 
 ### Links
