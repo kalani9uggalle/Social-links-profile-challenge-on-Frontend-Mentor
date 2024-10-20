@@ -1,0 +1,76 @@
+body {
+  background-color: #121212;  /* Dark background */
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.profile-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.profile-card {
+  background-color: #1f1f1f;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  width: 300px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.profile-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin: 10px 0;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+}
+
+.location {
+  color:  hsl(75, 94%, 57%);  /* Highlighted location */
+}
+
+.bio {
+  /* font-style: italic; */
+  margin-bottom: 20px;
+}
+
+.social-links {
+  display: flex;
+  flex-direction: column;
+}
+
+.social-button {
+  background-color: #333;
+  border: none;
+  color: #fff;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  font-family: 'Inter', sans-serif;
+  font-weight: normal;
+}
+
+.social-button:hover {
+  background-color: #555;
+}
+
+.social-button.active {
+  background-color: hsl(75, 94%, 57%);  /* Luminex Green for active button */
+  color: black;
+}
