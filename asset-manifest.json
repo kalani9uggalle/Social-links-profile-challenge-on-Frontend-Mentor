@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Social-links-profile-challenge-on-Frontend-Mentor/static/css/main.17421876.css",
+    "main.js": "/Social-links-profile-challenge-on-Frontend-Mentor/static/js/main.c7891271.js",
+    "static/js/453.a6a97343.chunk.js": "/Social-links-profile-challenge-on-Frontend-Mentor/static/js/453.a6a97343.chunk.js",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/Social-links-profile-challenge-on-Frontend-Mentor/static/media/Inter-VariableFont_slnt,wght.853e01975d2783d9fa29.ttf",
+    "static/media/Inter-Bold.ttf": "/Social-links-profile-challenge-on-Frontend-Mentor/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/Inter-SemiBold.ttf": "/Social-links-profile-challenge-on-Frontend-Mentor/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
+    "static/media/Inter-Regular.ttf": "/Social-links-profile-challenge-on-Frontend-Mentor/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "index.html": "/Social-links-profile-challenge-on-Frontend-Mentor/index.html",
+    "main.17421876.css.map": "/Social-links-profile-challenge-on-Frontend-Mentor/static/css/main.17421876.css.map",
+    "main.c7891271.js.map": "/Social-links-profile-challenge-on-Frontend-Mentor/static/js/main.c7891271.js.map",
+    "453.a6a97343.chunk.js.map": "/Social-links-profile-challenge-on-Frontend-Mentor/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17421876.css",
+    "static/js/main.c7891271.js"
+  ]
+}
